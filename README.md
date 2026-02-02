@@ -14,5 +14,5 @@ This is an Android application that helps users send emergency SOS alerts quickl
 
 ### 🛠 Tech Stack
 - Android Studio
-- Kotlin (or Java — if your project uses it)
+-  Java 
 - Git & GitHub
