@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "855238627631",
+    "firebase_url": "https://medicalsos-46855-default-rtdb.firebaseio.com",
+    "project_id": "medicalsos-46855",
+    "storage_bucket": "medicalsos-46855.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855238627631:android:e5b1d29cd3dcae833e11da",
+        "android_client_info": {
+          "package_name": "com.example.patientsosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855238627631-7vkf6o2okmsncm10ol6hdiav595in1if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjX1SyhVh0SJBmGUMkGaaJ-PpneBxaDZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855238627631-7vkf6o2okmsncm10ol6hdiav595in1if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855238627631:android:ba752cd39e55ac733e11da",
+        "android_client_info": {
+          "package_name": "com.example.smartemergencymedicalasistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855238627631-7vkf6o2okmsncm10ol6hdiav595in1if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjX1SyhVh0SJBmGUMkGaaJ-PpneBxaDZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855238627631-7vkf6o2okmsncm10ol6hdiav595in1if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

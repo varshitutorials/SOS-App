@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SmartEmergencyMedicalAsistance</string>
+    <string name="default_emergency_number">9390272936</string>
+    <string name="app_logo">Medical SOS Logo</string>
+    <string name="back">Back to SOS</string>
+</resources>
